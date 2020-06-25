@@ -1,2 +1,2 @@
 # TradingBots
-Algorithmic trading tools for MT5
+Algorithmic trading tools for MetaTrader 5
